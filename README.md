@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Shehryar 👋</h1>
+<h1 align="center">Hi, it's me Sherry 👋</h1>
 
 <p align="center">
   <em>Curiosity leads my way through life.</em>
