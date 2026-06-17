@@ -72,7 +72,7 @@ In between, there's usually a bot, a parser, or an OCR pipeline being built some
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Vector DB](https://img.shields.io/badge/Vector%20DB-4B8BBE?style=for-the-badge&logo=databricks&logoColor=white)
+![Vector DB](https://img.shields.io/badge/Vector%20DB-4B8BBE?style=for-the-badge&logoColor=white)
 
 **DevOps & Tools**
 
