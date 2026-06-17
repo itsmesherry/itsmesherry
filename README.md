@@ -49,19 +49,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=itsmesherry&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="Shehryar's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmesherry&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=itsmesherry&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
----
-
 ### 🌐 Connect with me
 
 <p align="center">
