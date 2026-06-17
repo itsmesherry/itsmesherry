@@ -5,23 +5,24 @@
 </p>
 
 <p align="center">
-  🧠 AI / LLM engineer building <b>agents</b>, <b>RAG systems</b> & <b>developer tooling</b> &nbsp;•&nbsp; 🐍 Python-first &nbsp;•&nbsp; 🚢 I like shipping real things
+  AI / LLM engineer building <b>agents</b>, <b>RAG systems</b>, and <b>developer tooling</b>, mostly in Python.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=itsmesherry&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=itsmesherry&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" />
 </p>
 
 ---
 
-### 🚀 About me
+### 🚀 What I'm building
 
-- 🔭 I work mostly on **applied LLMs**: agentic systems, retrieval-augmented generation, and tools that make models genuinely useful.
-- 📦 I shipped [**`claude-audit`**](https://www.npmjs.com/package/claude-audit), an AI-powered codebase auditor that runs in one command. *(It's on npm! 🎉)*
-- 🤖 I love building agents, tool-calling, and document intelligence ([`DocuSenseAI`](https://github.com/itsmesherry/DocuSenseAI), a multimodal RAG).
-- 🔬 I read papers and implement them from scratch, like an unofficial **Titans** implementation ("Learning to Memorize at Test Time").
-- ⚙️ When I'm not building models, I'm automating things: bots, parsers, document OCR ([`llm-ocr`](https://github.com/itsmesherry/llm-ocr)), and little libraries like [`async-limiter`](https://github.com/itsmesherry/async-limiter).
-- 🌱 Always learning. Always curious.
+I spend most of my time on **applied LLMs**: agentic systems, retrieval-augmented generation, and tooling that makes models actually useful. A few things I'm proud of:
+
+- **[`claude-audit`](https://www.npmjs.com/package/claude-audit)**, an AI-powered codebase auditor that runs in a single command (now on npm).
+- **[`DocuSenseAI`](https://github.com/itsmesherry/DocuSenseAI)**, a multimodal RAG for pulling answers out of messy documents.
+- A from-scratch, unofficial **Titans** implementation ("Learning to Memorize at Test Time").
+
+In between, there's usually a bot, a parser, or an OCR pipeline being built somewhere.
 
 ---
 
@@ -57,7 +58,7 @@
 
 ---
 
-### 🌐 Connect with me
+### 🌐 Connect
 
 <p align="center">
   <a href="https://itsmesherry.com" target="_blank">
@@ -71,4 +72,4 @@
   </a>
 </p>
 
-<p align="center"><sub>✨ Thanks for stopping by, let's build something cool together!</sub></p>
+<p align="center"><sub>Always down to talk LLMs, agents, or a good side project.</sub></p>
