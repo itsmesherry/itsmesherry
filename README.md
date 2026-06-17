@@ -16,12 +16,19 @@
 
 ### 🚀 About me
 
-- 🔭 I work mostly on **applied LLMs** — agentic systems, retrieval-augmented generation, and tools that make models genuinely useful.
-- 📦 I shipped [**`claude-audit`**](https://www.npmjs.com/package/claude-audit) — an AI-powered codebase auditor that runs in one command. *(It's on npm! 🎉)*
-- 🤖 I love building agents & multi-agent workflows ([`AgentFlow`](https://github.com/itsmesherry/AgentFlow)) and document intelligence ([`DocuSenseAI`](https://github.com/itsmesherry/DocuSenseAI) — multimodal RAG).
-- 🔬 I read papers and implement them from scratch — e.g. my [unofficial **Titans**](https://github.com/itsmesherry/titans-unofficial) implementation ("Learning to Memorize at Test Time").
-- ⚙️ When I'm not building models, I'm automating things — bots, parsers, and little libraries like [`async-limiter`](https://github.com/itsmesherry/async-limiter).
+- 🔭 I work mostly on **applied LLMs**: agentic systems, retrieval-augmented generation, and tools that make models genuinely useful.
+- 📦 I shipped [**`claude-audit`**](https://www.npmjs.com/package/claude-audit), an AI-powered codebase auditor that runs in one command. *(It's on npm! 🎉)*
+- 🤖 I love building agents, tool-calling, and document intelligence ([`DocuSenseAI`](https://github.com/itsmesherry/DocuSenseAI), a multimodal RAG).
+- 🔬 I read papers and implement them from scratch, like an unofficial **Titans** implementation ("Learning to Memorize at Test Time").
+- ⚙️ When I'm not building models, I'm automating things: bots, parsers, document OCR ([`llm-ocr`](https://github.com/itsmesherry/llm-ocr)), and little libraries like [`async-limiter`](https://github.com/itsmesherry/async-limiter).
 - 🌱 Always learning. Always curious.
+
+---
+
+### 📦 Published Packages
+
+[![async-limiter on PyPI](https://static.pepy.tech/personalized-badge/async-limiter?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=async-limiter)](https://pepy.tech/projects/async-limiter)
+[![ocr-llm on PyPI](https://static.pepy.tech/personalized-badge/ocr-llm?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=ocr-llm)](https://pepy.tech/projects/ocr-llm)
 
 ---
 
@@ -69,4 +76,4 @@
   </a>
 </p>
 
-<p align="center"><sub>✨ Thanks for stopping by — let's build something cool together!</sub></p>
+<p align="center"><sub>✨ Thanks for stopping by, let's build something cool together!</sub></p>
