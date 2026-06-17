@@ -50,7 +50,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsmesherry&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=itsmesherry&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
