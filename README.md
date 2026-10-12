@@ -25,18 +25,23 @@
 I spend most of my time on **applied LLMs**: agentic systems, retrieval-augmented generation, and tooling that makes models actually useful. A few things I'm proud of:
 
 - **[`claude-audit`](https://www.npmjs.com/package/claude-audit)**, an AI-powered codebase auditor that runs in a single command (now on npm).
-- **[`DocuSenseAI`](https://github.com/itsmesherry/DocuSenseAI)**, a multimodal RAG for pulling answers out of messy documents.
+- **[`llm-ocr`](https://github.com/itsmesherry/llm-ocr)**, which turns PDFs and images into clean Markdown with vision LLMs: Gemini, OpenAI, Claude, or a local model.
+- **[`async-limiter`](https://github.com/itsmesherry/async-limiter)**, an asyncio rate limiter that enforces a concurrency limit and a requests-per-period limit together.
 - **[`titans-unofficial`](https://github.com/itsmesherry/titans-unofficial)**, a from-scratch, unofficial PyTorch implementation of Titans ("Learning to Memorize at Test Time").
+- **[`weblm-python`](https://github.com/WebLM/weblm-python)**, the official Python SDK for [WebLM](https://weblm.dev), which converts HTML into LLM-ready Markdown.
+- **[`DocuSenseAI`](https://github.com/itsmesherry/DocuSenseAI)**, a multimodal RAG for pulling answers out of messy documents.
 
-In between, there's usually a bot, a parser, or an OCR pipeline being built somewhere.
+In between, there's usually a bot or a parser being built somewhere, and the occasional upstream contribution, like [Ollama support for OpenVoiceChat](https://github.com/Finity-Alpha/OpenVoiceChat/pull/40).
 
 ---
 
 ### 📦 Published Packages
 
 [![async-limiter on PyPI](https://static.pepy.tech/personalized-badge/async-limiter?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=async-limiter)](https://pepy.tech/projects/async-limiter)
-[![ocr-llm on PyPI](https://static.pepy.tech/personalized-badge/ocr-llm?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=ocr-llm)](https://pepy.tech/projects/ocr-llm)
 [![titans-unofficial on PyPI](https://static.pepy.tech/personalized-badge/titans-unofficial?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=titans-unofficial)](https://pepy.tech/projects/titans-unofficial)
+[![ocr-llm on PyPI](https://static.pepy.tech/personalized-badge/ocr-llm?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=ocr-llm)](https://pepy.tech/projects/ocr-llm)
+[![weblm-python on PyPI](https://static.pepy.tech/personalized-badge/weblm-python?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=weblm-python)](https://pepy.tech/projects/weblm-python)
+[![claude-audit on npm](https://img.shields.io/npm/dt/claude-audit?label=claude-audit&labelColor=black&color=97ca00)](https://www.npmjs.com/package/claude-audit)
 
 ---
 
