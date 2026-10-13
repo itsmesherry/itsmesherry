@@ -24,7 +24,7 @@
 
 I spend most of my time on **applied LLMs**: agentic systems, retrieval-augmented generation, and tooling that makes models actually useful. A few things I'm proud of:
 
-- **[`claude-audit`](https://www.npmjs.com/package/claude-audit)**, an AI-powered codebase auditor that runs in a single command (now on npm).
+- **[`claude-audit`](https://github.com/itsmesherry/claude-audit)**, a command-line code auditor: fast static checks, plus an optional audit where Claude investigates the code with read-only tools.
 - **[`llm-ocr`](https://github.com/itsmesherry/llm-ocr)**, which turns PDFs and images into clean Markdown with vision LLMs: Gemini, OpenAI, Claude, or a local model.
 - **[`async-limiter`](https://github.com/itsmesherry/async-limiter)**, an asyncio rate limiter that enforces a concurrency limit and a requests-per-period limit together.
 - **[`titans-unofficial`](https://github.com/itsmesherry/titans-unofficial)**, a from-scratch, unofficial PyTorch implementation of Titans ("Learning to Memorize at Test Time").
