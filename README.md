@@ -30,7 +30,7 @@ I spend most of my time on **applied LLMs**: agentic systems, retrieval-augmente
 - **[`titans-unofficial`](https://github.com/itsmesherry/titans-unofficial)**, a from-scratch, unofficial PyTorch implementation of Titans ("Learning to Memorize at Test Time").
 - **[`DocuSenseAI`](https://github.com/itsmesherry/DocuSenseAI)**, a multimodal RAG for pulling answers out of messy documents.
 
-In between, there's usually a bot or a parser being built somewhere, and the occasional upstream contribution, like [Ollama support for OpenVoiceChat](https://github.com/Finity-Alpha/OpenVoiceChat/pull/40).
+In between, there's usually a bot or a parser being built somewhere, and the occasional upstream contribution, like [Ollama support for OpenVoiceChat](https://github.com/Finity-Alpha/OpenVoiceChat/pull/40) and [an auto-apply fix for freehire](https://github.com/strelov1/freehire/pull/3591).
 
 ---
 
