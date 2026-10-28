@@ -24,6 +24,8 @@
 
 I spend most of my time on **applied LLMs**: agentic systems, retrieval-augmented generation, and tooling that makes models actually useful. A few things I'm proud of:
 
+- **Production multi-agent voice agents**: an orchestrator plus specialist agents over SIP, handling 10% of live inbound calls at sub-800 ms average latency.
+- **[WebLM](https://weblm.dev)**, a web-to-Markdown API with an open-source Python SDK ([`weblm-python`](https://github.com/WebLM/weblm-python)) that extracts typed structured output into Pydantic models.
 - **[`claude-audit`](https://github.com/itsmesherry/claude-audit)**, a command-line code auditor: fast static checks, plus an optional audit where Claude investigates the code with read-only tools.
 - **[`llm-ocr`](https://github.com/itsmesherry/llm-ocr)**, which turns PDFs and images into clean Markdown with vision LLMs: Gemini, OpenAI, Claude, or a local model.
 - **[`async-limiter`](https://github.com/itsmesherry/async-limiter)**, an asyncio rate limiter that enforces a concurrency limit and a requests-per-period limit together.
